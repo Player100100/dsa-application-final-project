@@ -118,6 +118,8 @@ powershell -ExecutionPolicy Bypass -File scripts\start_sim_stack.ps1
 
 代码与实验产物：<https://github.com/Player100100/dsa-application-final-project>
 
+`main` 分支已于 2026-11-26 推送（268 个文件）。后续改动请重新 commit/push。
+
 ## AI 使用披露
 
 本项目的代码、文档与实验整理使用了 AI 编程助手（Claude Code）辅助；选题、
