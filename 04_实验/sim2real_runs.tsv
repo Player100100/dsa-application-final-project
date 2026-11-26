@@ -1,0 +1,16 @@
+profile	goal	rep	status	time_s	remaining	frames	replans	map	log
+ideal	1.5 0.0	1	OK	8.3	0.30	59	10	04_实验/sim2real_maps/ideal_1.5_0.0_r1.yaml	/tmp/nav_ideal_1.5_0.0_r1.log
+ideal	1.5 0.0	2	OK	8.3	0.29	61	10	04_实验/sim2real_maps/ideal_1.5_0.0_r2.yaml	/tmp/nav_ideal_1.5_0.0_r2.log
+ideal	1.5 0.0	3	OK	8.4	0.29	64	10	04_实验/sim2real_maps/ideal_1.5_0.0_r3.yaml	/tmp/nav_ideal_1.5_0.0_r3.log
+ideal	1.5 0.0	4	OK	8.2	0.30	65	10	04_实验/sim2real_maps/ideal_1.5_0.0_r4.yaml	/tmp/nav_ideal_1.5_0.0_r4.log
+ideal	1.5 0.0	5	OK	8.3	0.29	65	10	04_实验/sim2real_maps/ideal_1.5_0.0_r5.yaml	/tmp/nav_ideal_1.5_0.0_r5.log
+ideal	1.0 2.0	1	OK	25.2	0.30	143	44	04_实验/sim2real_maps/ideal_1.0_2.0_r1.yaml	/tmp/nav_ideal_1.0_2.0_r1.log
+ideal	1.0 2.0	2	TIMEOUT		1.54	451	81	04_实验/sim2real_maps/ideal_1.0_2.0_r2.yaml	/tmp/nav_ideal_1.0_2.0_r2.log
+ideal	1.0 2.0	3	TIMEOUT			0	0	04_实验/sim2real_maps/ideal_1.0_2.0_r3.yaml	/tmp/nav_ideal_1.0_2.0_r3.log
+ideal	1.0 2.0	4	TIMEOUT			0	0	04_实验/sim2real_maps/ideal_1.0_2.0_r4.yaml	/tmp/nav_ideal_1.0_2.0_r4.log
+ideal	1.0 2.0	5	TIMEOUT			0	0	04_实验/sim2real_maps/ideal_1.0_2.0_r5.yaml	/tmp/nav_ideal_1.0_2.0_r5.log
+ideal	0.0 2.0	1	TIMEOUT			0	0	04_实验/sim2real_maps/ideal_0.0_2.0_r1.yaml	/tmp/nav_ideal_0.0_2.0_r1.log
+ideal	0.0 2.0	2	OK	31.8	0.29	219	39	04_实验/sim2real_maps/ideal_0.0_2.0_r2.yaml	/tmp/nav_ideal_0.0_2.0_r2.log
+ideal	0.0 2.0	3	TIMEOUT					04_实验/sim2real_maps/ideal_0.0_2.0_r3.yaml	/tmp/nav_ideal_0.0_2.0_r3.log
+ideal	0.0 2.0	4	OK	49.2	0.29	230	113	04_实验/sim2real_maps/ideal_0.0_2.0_r4.yaml	/tmp/nav_ideal_0.0_2.0_r4.log
+ideal	0.0 2.0	5	OK	34.6	0.29	113	42	04_实验/sim2real_maps/ideal_0.0_2.0_r5.yaml	/tmp/nav_ideal_0.0_2.0_r5.log

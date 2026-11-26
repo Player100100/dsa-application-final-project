@@ -1,0 +1,16 @@
+profile	goal	rep	status	time_s	remaining	frames	replans	map	log
+ideal	1.0 2.0	3	INFRA						
+ideal	1.0 2.0	4	INFRA						
+ideal	1.0 2.0	5	INFRA						
+ideal	0.0 2.0	1	INFRA						
+ideal	0.0 2.0	3	INFRA						
+stress	1.5 0.0	1	INFRA						
+stress	1.5 0.0	2	INFRA						
+stress	1.5 0.0	3	INFRA						
+stress	1.5 0.0	4	OK	19.7	0.30	74	22	04_实验/sim2real_maps/stress_1.5_0.0_r4.yaml	/tmp/nav_stress_1.5_0.0_r4.log
+stress	1.5 0.0	5	OK	8.2	0.30	58	10	04_实验/sim2real_maps/stress_1.5_0.0_r5.yaml	/tmp/nav_stress_1.5_0.0_r5.log
+stress	1.0 2.0	1	TIMEOUT		1.75	421	70	04_实验/sim2real_maps/stress_1.0_2.0_r1.yaml	/tmp/nav_stress_1.0_2.0_r1.log
+stress	1.0 2.0	2	TIMEOUT		2.07	14	68	04_实验/sim2real_maps/stress_1.0_2.0_r2.yaml	/tmp/nav_stress_1.0_2.0_r2.log
+stress	1.0 2.0	3	INFRA						
+stress	1.0 2.0	4	TIMEOUT		1.80	318	69	04_实验/sim2real_maps/stress_1.0_2.0_r4.yaml	/tmp/nav_stress_1.0_2.0_r4.log
+stress	1.0 2.0	5	TIMEOUT		1.78	427	71	04_实验/sim2real_maps/stress_1.0_2.0_r5.yaml	/tmp/nav_stress_1.0_2.0_r5.log

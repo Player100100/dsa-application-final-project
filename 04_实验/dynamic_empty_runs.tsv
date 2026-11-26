@@ -1,0 +1,5 @@
+kind	rep	status	time_s	remaining	frames	replans
+baseline	1	OK	11.6	0.28	83	14
+dynamic	1	OK	22.2	0.29	140	30
+baseline	2	OK	11.6	0.29	83	14
+dynamic	2	OK	21.2	0.29	133	30

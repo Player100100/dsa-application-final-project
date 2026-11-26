@@ -1,0 +1,8 @@
+# 由 03_代码/ds/grid_map.py 生成（ROS 2 trinary 地图）
+image: ideal_0.0_2.0_r5.pgm
+resolution: 0.05
+origin: [-4.0, -4.0, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+mode: trinary

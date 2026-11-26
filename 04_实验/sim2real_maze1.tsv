@@ -1,0 +1,19 @@
+profile	goal	rep	status	time_s	remaining	frames	replans	map	log
+ideal	0.5 0.0	1	OK	2.0	0.29	14	3	04_实验/maze1_maps/ideal_0.5_0.0_r1.yaml	/tmp/nav_ideal_0.5_0.0_r1.log
+ideal	0.5 0.0	2	OK	2.0	0.29	14	3	04_实验/maze1_maps/ideal_0.5_0.0_r2.yaml	/tmp/nav_ideal_0.5_0.0_r2.log
+ideal	0.5 0.0	3	OK	2.2	0.29	15	3	04_实验/maze1_maps/ideal_0.5_0.0_r3.yaml	/tmp/nav_ideal_0.5_0.0_r3.log
+ideal	0.5 0.0	4	OK	2.1	0.30	14	3	04_实验/maze1_maps/ideal_0.5_0.0_r4.yaml	/tmp/nav_ideal_0.5_0.0_r4.log
+ideal	0.5 0.0	5	OK	2.1	0.29	14	3	04_实验/maze1_maps/ideal_0.5_0.0_r5.yaml	/tmp/nav_ideal_0.5_0.0_r5.log
+ideal	1.0 0.0	1	OK	5.7	0.29	39	7	04_实验/maze1_maps/ideal_1.0_0.0_r1.yaml	/tmp/nav_ideal_1.0_0.0_r1.log
+ideal	1.0 0.0	2	OK	5.4	0.30	37	7	04_实验/maze1_maps/ideal_1.0_0.0_r2.yaml	/tmp/nav_ideal_1.0_0.0_r2.log
+ideal	1.0 0.0	3	OK	5.4	0.30	37	7	04_实验/maze1_maps/ideal_1.0_0.0_r3.yaml	/tmp/nav_ideal_1.0_0.0_r3.log
+ideal	1.0 0.0	4	OK	6.9	0.30	37	9	04_实验/maze1_maps/ideal_1.0_0.0_r4.yaml	/tmp/nav_ideal_1.0_0.0_r4.log
+ideal	1.0 0.0	5	INFRA						
+ideal	2.0 0.0	1	INFRA						
+ideal	2.0 0.0	2	INFRA						
+ideal	2.0 0.0	3	INFRA						
+ideal	2.0 0.0	4	INFRA						
+ideal	2.0 0.0	5	INFRA						
+stress	0.5 0.0	1	INFRA						
+stress	0.5 0.0	2	INFRA						
+stress	0.5 0.0	3	INFRA						

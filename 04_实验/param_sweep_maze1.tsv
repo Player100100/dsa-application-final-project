@@ -1,0 +1,10 @@
+res	inflate	status	time_s	remaining	frames	replans	map	log
+0.03	0.12	OK	12.7	0.29	89	15	04_实验/param_maps/res0.03_inf0.12.yaml	/tmp/nav_res0.03_inf0.12.log
+0.03	0.15	OK	12.1	0.29	87	15	04_实验/param_maps/res0.03_inf0.15.yaml	/tmp/nav_res0.03_inf0.15.log
+0.03	0.20	OK	12.2	0.30	87	15	04_实验/param_maps/res0.03_inf0.20.yaml	/tmp/nav_res0.03_inf0.20.log
+0.05	0.12	OK	12.1	0.30	87	15	04_实验/param_maps/res0.05_inf0.12.yaml	/tmp/nav_res0.05_inf0.12.log
+0.05	0.15	OK	12.5	0.30	89	15	04_实验/param_maps/res0.05_inf0.15.yaml	/tmp/nav_res0.05_inf0.15.log
+0.05	0.20	OK	12.0	0.29	86	15	04_实验/param_maps/res0.05_inf0.20.yaml	/tmp/nav_res0.05_inf0.20.log
+0.08	0.12	OK	12.4	0.29	88	15	04_实验/param_maps/res0.08_inf0.12.yaml	/tmp/nav_res0.08_inf0.12.log
+0.08	0.15	OK	12.4	0.30	88	15	04_实验/param_maps/res0.08_inf0.15.yaml	/tmp/nav_res0.08_inf0.15.log
+0.08	0.20	OK	12.2	0.30	87	14	04_实验/param_maps/res0.08_inf0.20.yaml	/tmp/nav_res0.08_inf0.20.log
